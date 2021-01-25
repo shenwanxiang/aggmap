@@ -1,1 +1,4 @@
-# aggmap.io
+# aggmap
+
+
+## code example: ./example
